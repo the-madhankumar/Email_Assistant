@@ -1,0 +1,37 @@
+[
+  {
+    "from": "madhan Kumar <madhankumarbusiness@gmail.com>",
+    "subject": "(No subject)",
+    "body": "*From:* Karthik Reddy\n*Subject:* Coordination for Upcoming Training\n\nDear Nivetha,\n\nI am coordinating the upcoming training session for the development team.\nCould you help confirm the *final participant list* and reserve the *training\nroom for 3 PM–5 PM next Wednesday*?\n\nBest regards,\nKarthik Reddy\n",
+    "category": "Training Logistics",
+    "priority": "High"
+  },
+  {
+    "from": "madhan Kumar <madhankumarbusiness@gmail.com>",
+    "subject": "(No subject)",
+    "body": "*From:* Aishwarya Menon\n*Subject:* Urgent – Client Escalation on Delivery Timeline\n\nDear Nivetha,\n\nWe received an escalation from the client regarding *delayed delivery of\nModule 4*.\nCould you please help arrange an urgent meeting with the project, QA, and\ndelivery teams to discuss corrective measures and update the client\naccordingly?\n\nThis requires immediate attention to prevent further escalation.\n\nSincerely,\nAishwarya Menon\n",
+    "category": "Project Management",
+    "priority": "High"
+  },
+  {
+    "from": "madhan Kumar <madhankumarbusiness@gmail.com>",
+    "subject": "(No subject)",
+    "body": "*From:* Ramesh Pillai\n*Subject:* Immediate Assistance Required – Team Conflict\n\nDear Nivetha,\n\nA conflict has arisen within the *UI/UX design team* impacting project\nprogress.\nI request your presence in today’s *3 PM meeting* to mediate and guide us\ntoward a resolution.\n\nYour intervention is crucial to avoid further delays.\n\nBest regards,\nRamesh Pillai\n",
+    "category": "Conflict Resolution",
+    "priority": "High"
+  },
+  {
+    "from": "madhan Kumar <madhankumarbusiness@gmail.com>",
+    "subject": "(No subject)",
+    "body": "*From:* Meera Suresh\n*Subject:* Submission of Compliance Documentation – Priority\n\nDear Nivetha,\n\nAs per the audit team’s request, we must submit all compliance-related\ndocuments for the last quarter by *Friday EOD*.\nCould you please assist in compiling the *employee training records,\nattendance logs, and signed policy acknowledgments*?\n\nThank you in advance for your prompt assistance.\n\nSincerely,\nMeera Suresh\n",
+    "category": "Compliance",
+    "priority": "High"
+  },
+  {
+    "from": "madhan Kumar <madhankumarbusiness@gmail.com>",
+    "subject": "(No subject)",
+    "body": "*From:* Arjun Nair\n*Subject:* Urgent Resource Requirement for Project Alpha\n\nDear Nivetha,\n\nThe *Project Alpha* team urgently requires *two additional developers with\nJava expertise* starting next week.\nCould you please initiate the resource allocation process and update me on\nthe availability?\nGiven the tight deadlines, your swift action will be greatly appreciated.\n\nRegards,\nArjun Nair\n",
+    "category": "Resource Request",
+    "priority": "High"
+  }
+]

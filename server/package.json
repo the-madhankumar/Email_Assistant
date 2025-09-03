@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Mail assistant server",
+  "dependencies": {
+    "@langchain/core": "^0.3.68",
+    "@langchain/google-genai": "^0.2.16",
+    "@langchain/groq": "^0.2.3",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "express-session": "^1.18.2",
+    "googleapis": "^155.0.1",
+    "langchain": "^0.3.30",
+    "moment": "^2.30.1"
+  }
+}
