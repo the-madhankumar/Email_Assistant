@@ -12,9 +12,14 @@ export const listTodayEmails = async () => {
     const oauth2Client = await loadOAuth2Client();
     const gmail = google.gmail({ version: "v1", auth: oauth2Client });
 
+    // const formattedDate = `${today.getFullYear()}/${today.getMonth() + 1}/${today.getDate()}`;
+    // const query = `after:${formattedDate}`;
+
     const today = new Date();
-    const formattedDate = `${today.getFullYear()}/${today.getMonth() + 1}/${today.getDate()}`;
-    const query = `after:${formattedDate} -category:promotions -category:social -category:updates -in:spam`; 
+    today.setHours(0, 0, 0, 0);
+    const timestamp = Math.floor(today.getTime() / 1000);
+    const query = `after:${timestamp} -category:promotions -category:social -category:updates -in:spam`;
+    // const query = "newer_than:1d";
 
     const res = await gmail.users.messages.list({
         userId: "me",

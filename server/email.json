@@ -1,37 +1,37 @@
 [
   {
-    "from": "madhan Kumar <madhankumarbusiness@gmail.com>",
-    "subject": "(No subject)",
-    "body": "*From:* Karthik Reddy\n*Subject:* Coordination for Upcoming Training\n\nDear Nivetha,\n\nI am coordinating the upcoming training session for the development team.\nCould you help confirm the *final participant list* and reserve the *training\nroom for 3 PM–5 PM next Wednesday*?\n\nBest regards,\nKarthik Reddy\n",
-    "category": "Training Logistics",
+    "from": "Madhumitha K CIT <madhumithak.it2022@citchennai.net>",
+    "subject": "Fwd: Release Build Ready for QA Validation",
+    "body": "---------- Forwarded message ---------\nFrom: MADHAN KUMAR M <madhankumarbusiness@gmail.com>\nDate: Tue, Mar 10, 2026, 12:27 AM\nSubject: Release Build Ready for QA Validation\nTo: <madhumithak.it2022@citchennai.net>\n\nHi QA Team,\n\nThe release build v3.1.0 is now deployed in the QA environment. Please\nstart the verification process immediately.\n\nFocus Areas:\n\n   -\n   Payment processing\n   -\n   Order creation\n   -\n   User account registration\n\nThis build is scheduled for production deployment tomorrow, so your quick\nvalidation is appreciated.\n\nPlease report any blockers immediately.\n\nThanks,\nCramling",
+    "category": "Software Development",
     "priority": "High"
   },
   {
-    "from": "madhan Kumar <madhankumarbusiness@gmail.com>",
-    "subject": "(No subject)",
-    "body": "*From:* Aishwarya Menon\n*Subject:* Urgent – Client Escalation on Delivery Timeline\n\nDear Nivetha,\n\nWe received an escalation from the client regarding *delayed delivery of\nModule 4*.\nCould you please help arrange an urgent meeting with the project, QA, and\ndelivery teams to discuss corrective measures and update the client\naccordingly?\n\nThis requires immediate attention to prevent further escalation.\n\nSincerely,\nAishwarya Menon\n",
-    "category": "Project Management",
-    "priority": "High"
+    "from": "Madhumitha K CIT <madhumithak.it2022@citchennai.net>",
+    "subject": "Fwd: Bug Fix Ready for Retesting",
+    "body": "---------- Forwarded message ---------\nFrom: Madhumitha K CIT <madhumithak.it2022@citchennai.net>\nDate: Tue, Mar 10, 2026, 8:28 AM\nSubject: Fwd: Bug Fix Ready for Retesting\nTo: Madhumitha K CIT <madhumithak.it2022@citchennai.net>\n\n---------- Forwarded message ---------\nFrom: MADHAN KUMAR M <madhankumarbusiness@gmail.com>\nDate: Tue, Mar 10, 2026, 12:28 AM\nSubject: Bug Fix Ready for Retesting\nTo: <madhumithak.it2022@citchennai.net>\n\nHi QA Team,\n\nThe reported bug related to incorrect data display in the dashboard has\nbeen fixed.\n\nBug ID: BUG-4582\nEnvironment: QA\n\nPlease retest the issue and confirm if the fix works as expected.\n\nLet me know if any further issues are found.\n\nThanks,\n\nFabiano",
+    "category": "IT/Technical Issue",
+    "priority": "Medium"
   },
   {
-    "from": "madhan Kumar <madhankumarbusiness@gmail.com>",
-    "subject": "(No subject)",
-    "body": "*From:* Ramesh Pillai\n*Subject:* Immediate Assistance Required – Team Conflict\n\nDear Nivetha,\n\nA conflict has arisen within the *UI/UX design team* impacting project\nprogress.\nI request your presence in today’s *3 PM meeting* to mediate and guide us\ntoward a resolution.\n\nYour intervention is crucial to avoid further delays.\n\nBest regards,\nRamesh Pillai\n",
-    "category": "Conflict Resolution",
-    "priority": "High"
+    "from": "Madhumitha K CIT <madhumithak.it2022@citchennai.net>",
+    "subject": "Fwd: Minor UI Changes Available for Testing",
+    "body": "---------- Forwarded message ---------\nFrom: Madhumitha K CIT <madhumithak.it2022@citchennai.net>\nDate: Tue, Mar 10, 2026, 8:28 AM\nSubject: Fwd: Minor UI Changes Available for Testing\nTo: Madhumitha K CIT <madhumithak.it2022@citchennai.net>\n\n---------- Forwarded message ---------\nFrom: MADHAN KUMAR M <madhankumarbusiness@gmail.com>\nDate: Tue, Mar 10, 2026, 12:29 AM\nSubject: Minor UI Changes Available for Testing\nTo: <madhumithak.it2022@citchennai.net>\n\nHi Team,\n\nSome minor UI improvements have been implemented in the settings page,\nincluding alignment fixes and button styling updates.\n\nThese changes are available in the QA environment.\n\nPlease test them during your regular testing cycle.\n\nRegards,\nJudit\n",
+    "category": "IT/Development",
+    "priority": "Medium"
   },
   {
-    "from": "madhan Kumar <madhankumarbusiness@gmail.com>",
-    "subject": "(No subject)",
-    "body": "*From:* Meera Suresh\n*Subject:* Submission of Compliance Documentation – Priority\n\nDear Nivetha,\n\nAs per the audit team’s request, we must submit all compliance-related\ndocuments for the last quarter by *Friday EOD*.\nCould you please assist in compiling the *employee training records,\nattendance logs, and signed policy acknowledgments*?\n\nThank you in advance for your prompt assistance.\n\nSincerely,\nMeera Suresh\n",
-    "category": "Compliance",
-    "priority": "High"
+    "from": "Madhumitha K CIT <madhumithak.it2022@citchennai.net>",
+    "subject": "Fwd: New Feature Ready for Testing",
+    "body": "---------- Forwarded message ---------\nFrom: MADHAN KUMAR M <madhankumarbusiness@gmail.com>\nDate: Tue, Mar 10, 2026, 12:28 AM\nSubject: New Feature Ready for Testing\nTo: <madhumithak.it2022@citchennai.net>\n\nHi Team,\n\nThe new \"User Profile Update\" feature has been implemented and deployed to\nthe QA environment.\n\nYou can start testing the following scenarios:\n\n   -\n   Profile edit\n   -\n   Password update\n   -\n   Profile image upload\n\nBuild Version: v2.5.0\n\nPlease test when possible and log any issues in the tracking system.\n\nRegards,\n\nMagnus\n",
+    "category": "Development/Testing",
+    "priority": "Medium"
   },
   {
-    "from": "madhan Kumar <madhankumarbusiness@gmail.com>",
-    "subject": "(No subject)",
-    "body": "*From:* Arjun Nair\n*Subject:* Urgent Resource Requirement for Project Alpha\n\nDear Nivetha,\n\nThe *Project Alpha* team urgently requires *two additional developers with\nJava expertise* starting next week.\nCould you please initiate the resource allocation process and update me on\nthe availability?\nGiven the tight deadlines, your swift action will be greatly appreciated.\n\nRegards,\nArjun Nair\n",
-    "category": "Resource Request",
+    "from": "Madhumitha K CIT <madhumithak.it2022@citchennai.net>",
+    "subject": "Fwd: Urgent pull request",
+    "body": "---------- Forwarded message ---------\nFrom: MADHAN KUMAR M <madhankumarbusiness@gmail.com>\nDate: Tue, Mar 10, 2026, 7:02 AM\nSubject: Urgent pull request\nTo: <madhumithak.it2022@citchennai.net>\n\nHi dev team,\n\nBefore end of this week we have to submit the pull request and ends with a\nsuite of features on our project.\n\nHope soon you guys done it.\n\nRegards,\nVictor.",
+    "category": "Development",
     "priority": "High"
   }
 ]
